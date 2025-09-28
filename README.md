@@ -48,8 +48,11 @@ Server sẽ chạy tại: http://localhost:3000
 ## 🔑 Tính năng chính
 
 ✅ Đăng ký tài khoản (hash mật khẩu bằng bcrypt)
+
 ✅ Đăng nhập tài khoản (tạo session và lưu sessionID trong cookie)
+
 ✅ Bảo vệ route bằng middleware kiểm tra session
+
 ✅ Người dùng có thể đăng xuất (xoá session trên server + cookie trên client)
 
 ## 🖼️ Ảnh minh họa
@@ -64,4 +67,4 @@ Server sẽ chạy tại: http://localhost:3000
 ![Profile](public/results/profile.png)
 
 ## Đăng xuất
-!LLogout](public/results/logout.png)
+![Logout](public/results/logout.png)
